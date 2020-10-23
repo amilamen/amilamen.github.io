@@ -32621,3 +32621,8 @@ div[class*="col"]:nth-child(even) .team-item:hover .team-thumb::before {
     opacity: 0;
   }
 }
+.custom-img {
+  width: 170px;
+  display: block;
+  margin: 5% auto;
+}
